@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Menthol2k
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me teach me
 
 <!---
