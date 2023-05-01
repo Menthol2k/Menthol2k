@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Octavian
-- 👀 I’m interested in codding
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me teach me
+# Octavian - Full Stack Web Developer
 
-<!---
-Menthol2k/Menthol2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Octavian, a Full Stack Web Developer 🌐 with expertise in Laravel 🚀, PHP 🐘, Vue.js 🖥️, Tailwind 🎨, Inertia ⚡.
+
+🔥 I love creating amazing web applications that are not only visually stunning, but also performant and user-friendly. From concept to deployment, I'm passionate about every aspect of the development process 🚀.
+
+👨‍💻 With years of experience under my belt, I have honed my skills and developed a deep understanding of what it takes to build exceptional web applications that exceed expectations 🥇.
+
+## My Skills
+
+- Laravel
+- PHP
+- Vue.js
+- Tailwind
+- Inertia
+- and more!
+
+## My Projects
+
+Here are a few of my recent projects:
+
+1. [Project 1](https://github.com/Menthol2k/login-practice)
+2. [Project 2](https://github.com/Menthol2k/php-layout)
+3. [Project 3](https://github.com/Menthol2k/TextEditor)
+
+## Contact Me
+
+Feel free to get in touch with me at [xxmenthol@gmail.com](mailto:xxmenthol@gmail.com) to discuss your next project!
