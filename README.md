@@ -19,7 +19,7 @@
 
 Here are a few of my recent projects:
 
-1. [Project 1](https://github.com/Menthol2k/login-practice)
+1. [Project 1](https://github.com/Menthol2k/forum-poiana)
 2. [Project 2](https://github.com/Menthol2k/php-layout)
 3. [Project 3](https://github.com/Menthol2k/TextEditor)
 
